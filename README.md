@@ -2,6 +2,10 @@
 
 集中查看家庭网络关键服务状态的 Android 应用。
 
+## 应用截图
+
+![NetworkPulse 截图](screenshot.jpg)
+
 ## 支持服务
 
 | 服务 | 功能 |
